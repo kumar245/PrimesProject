@@ -52,7 +52,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:inputType="textPersonName"
-        android:ems="10"
+        android:ems="9"
         android:layout_marginTop="68dp"
         android:id="@+id/editText3"
         android:hint="Result"
@@ -62,15 +62,4 @@
         android:layout_marginLeft="43dp"
         android:layout_marginStart="43dp" />
 
-    <TextView
-        android:text="TextView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignRight="@+id/editText3"
-        android:layout_alignEnd="@+id/editText3"
-        android:layout_marginRight="15dp"
-        android:layout_marginEnd="15dp"
-        android:layout_marginBottom="41dp"
-        android:id="@+id/textView" />
 </RelativeLayout>
