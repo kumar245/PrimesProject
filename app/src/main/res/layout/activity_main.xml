@@ -61,4 +61,16 @@
         android:layout_alignStart="@+id/editText2"
         android:layout_marginLeft="43dp"
         android:layout_marginStart="43dp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/editText3"
+        android:layout_alignEnd="@+id/editText3"
+        android:layout_marginRight="15dp"
+        android:layout_marginEnd="15dp"
+        android:layout_marginBottom="41dp"
+        android:id="@+id/textView" />
 </RelativeLayout>
